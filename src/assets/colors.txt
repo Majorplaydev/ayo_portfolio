@@ -1,0 +1,9 @@
+--las-palmas: #d4ee27;
+--woodsmoke: #0b0d10;
+--sirocco: #757676;
+--jumbo: #83848c;
+--gunsmoke: #838c88;
+--outer-space: #37393b;
+--mako: #3f444c;
+--lunar-green: #414c44;
+--monsoon: #8c848c;
